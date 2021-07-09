@@ -14,6 +14,8 @@ h1{
 }
 section{
     display: flex;
+    margin: 0%;
+
 }
 .half-width{
     width: 50%;
@@ -28,6 +30,21 @@ section{
     padding: 5%;
 }
 .link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, red);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 10px;
+}
+.full-story img{
+    width: 140%;
+}
+.about-paragraph{
+    margin-right: 50px;
+    color: dimgray;
+}
+.contact-button{
     text-decoration: none;
     background-image: linear-gradient(orange, red);
     color: white;
