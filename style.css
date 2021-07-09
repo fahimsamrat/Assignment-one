@@ -14,7 +14,7 @@ h1{
 }
 section{
     display: flex;
-    margin: 0%;
+    margin: 150px;
 
 }
 .half-width{
@@ -51,4 +51,16 @@ section{
     font-weight: 700;
     padding: 10px 40px;
     border-radius: 10px;
+}
+.recipes-color{
+    color: dimgray;
+    margin: 10px 20px 30px 600px;
+    
+}
+
+#paragraph-center{
+    margin: 10px 20px 40px 600px;
+}
+.food-one{
+    padding: 100px 100px 200px 200px;
 }
